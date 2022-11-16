@@ -1498,7 +1498,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33a50afc3094cd94391d457700bcee10, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MarkerID: 0
+  MarkerID: 612
   IsPositionMapped: 1
   InvertX: 0
   InvertY: 0
